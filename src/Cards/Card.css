@@ -1,0 +1,9 @@
+.Cards{
+    display: grid;
+    gap: 10px;
+    grid-auto-flow: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+    margin: 10px;
+    transition: 1s all ease;
+}
